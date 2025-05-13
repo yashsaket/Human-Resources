@@ -1,5 +1,5 @@
 # Human-Resources
-Welcome to my HR journey repository! 🌱  
+Welcome to my HR journey repository! 
 From a background in horticulture to diving deep into human resources, I've always been passionate about learning what makes people thrive at work. This repo captures my HR milestones—certifications, projects, and insights—as I build my way through talent acquisition, employee experience, and beyond.
 
 ---
